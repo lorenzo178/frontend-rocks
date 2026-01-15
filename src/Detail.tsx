@@ -1,3 +1,4 @@
 export const Detail = () => {
-  return null;
+  return <div>dettaglio</div>;
+
 };
